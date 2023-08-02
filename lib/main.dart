@@ -103,11 +103,11 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
 
              const Text(
-              'You have pushed  asweqre fddfsrt sdee'
+              'You have pushed  asweqre fddfsrt see
             ),
 
             const Text(
-              'You have pushed the button this many times:',
+              'You have pushed the button this many times wwrjj oiotyotc mmkj:',
             ),
 
             const Text(
