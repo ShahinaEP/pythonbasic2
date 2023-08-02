@@ -98,6 +98,10 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have merge',
             ),
+
+            const Text(
+              'You have merge 4',
+            ),
             const Text(
               'You have pushed the button this many times:',
             ),
