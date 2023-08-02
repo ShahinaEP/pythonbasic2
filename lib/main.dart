@@ -101,19 +101,13 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
             ),
-
-             const Text(
-              'You have pushed  asweqre fddfsrt see
-            ),
-
+            const Text('You have pushed  asweqre fddfsrt see'),
             const Text(
               'You have pushed the button this many times wwrjj oiotyotc mmkj:',
             ),
-
             const Text(
               'You have pushed the bu times:',
             ),
-
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
